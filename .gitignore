@@ -1,0 +1,10 @@
+__pycache__/
+videos/
+audios/
+Texts/
+Chunks/
+embeddings/
+prompt.txt
+!data/prompt.txt
+response.txt
+.cph/
