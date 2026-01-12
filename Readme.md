@@ -141,6 +141,7 @@ Use the provided local transcription code (OpenAI Whisper large-v2) if you have 
 If you have a low-end system, you may use an online transcript generator such as:
 https://notegpt.io/youtube-transcript-generator
 and place the generated transcript files into the Texts/ folder.
+
 4. Convert text files to chunks
 Convert all transcript files (.txt) into timestamped JSON chunks by running:
 ```bash
